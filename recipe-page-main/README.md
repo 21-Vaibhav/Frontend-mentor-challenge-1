@@ -20,8 +20,7 @@ Got to know bout the challenge from a random youtube channel, to be honest, help
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vercel.com/vaibhav-gs-projects/frontend-mentor-challenge-1/AGfN8aWqR7LiqNgVzFMWLfvSbKBR]
 
 ## My process
 
